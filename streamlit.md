@@ -1,8 +1,8 @@
-# DefectGuard AI - Manufacturing Intelligence System
+#DefectIQ - Manufacturing Intelligence System
 
 ## Overview
 
-DefectGuard AI is a real-time manufacturing defect prediction and quality control monitoring system. The application enables operators to monitor sensor data, predict potential defects, and review historical predictions to improve manufacturing quality control.
+DefectIQ  is a real-time manufacturing defect prediction and quality control monitoring system. The application enables operators to monitor sensor data, predict potential defects, and review historical predictions to improve manufacturing quality control.
 
 ## User Preferences
 
